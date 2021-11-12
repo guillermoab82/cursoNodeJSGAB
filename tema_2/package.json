@@ -1,0 +1,16 @@
+{
+  "name": "tema2",
+  "version": "1.0.0",
+  "description": "Tema 2 del curso de NodeJS de Unica Fac Ing.",
+  "main": "002_app.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
